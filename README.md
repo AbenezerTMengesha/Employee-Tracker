@@ -3,6 +3,12 @@
 ## Discription
 This is a command line aplication that allows users to view, update, and manage roles, dipartments, and employees within a company.
 
+![view](https://user-images.githubusercontent.com/90799809/228093416-2b12f9d1-9f56-4657-b90f-57a44263c07d.png)
+
+
+![add](https://user-images.githubusercontent.com/90799809/228093429-f3444931-126e-490f-8775-9e5b471008eb.png)
+
+
 ## Technologies / Packages Used
 - JavaScript
 - Node.js
