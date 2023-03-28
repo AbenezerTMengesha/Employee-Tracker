@@ -27,3 +27,5 @@ Onces the packages are installed then all you have to do is run the index file.
     node index.js
 
 ## Walk-through link
+
+https://youtu.be/RhkEHftcxzw
